@@ -95,8 +95,9 @@ to encourage further developement of the tool.
     https://github.com/Abhro/  
 
   * Andrea Giacomo  
-    https://github.com/codepr
+    https://github.com/codepr/
 
-
+* Manoel Carvalho  
+    https://github.com/TheNeoCarvalho/ 
 
 
